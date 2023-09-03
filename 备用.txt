@@ -1,0 +1,11 @@
+https://blog.csdn.net/qq_36072670/article/details/117448915?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link
+https://prior.allenai.org/projects/charades
+https://www.jianshu.com/p/a4cc71126796
+https://blog.csdn.net/WhiffeYF/article/details/115431794?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.nonecase
+https://zhuanlan.zhihu.com/p/157869607
+https://github.com/cvdfoundation/ava-dataset
+https://zhuanlan.zhihu.com/p/348322944
+https://www.136.la/jingpin/show-125227.html
+/home/xuwenqiang/flash/备用.txt
+python tools/run_net.py --cfg demo/Charades/SLOWFAST_32x2_R101_50_50.yaml
+python tools/run_net.py --cfg demo/Charades/SLOWFAST_8x8_R50.yaml
